@@ -1,0 +1,72 @@
+.team-logo
+{
+    height: 80px;
+    width: 80px;
+}
+
+.right img
+{
+    height: 80px;
+    width: 80px;
+}
+
+body
+{
+    padding: 20px;
+    font-family: "Arial Unicode MS";
+    font-size: 16px;
+}
+
+.main
+{
+    border:1px solid gray;
+    background-color: #eee;
+    padding: 20px;
+    margin: 0 auto;
+    overflow: auto;
+    min-width: 800px;
+}
+
+.left
+{
+    float: left;
+    padding: 20px;
+    border: 1px solid gray;
+    background-color: white;
+    width: 200px;
+}
+
+.team-logo
+{
+    float: left;
+    border: 1px solid gray;
+}
+
+.team-name
+{
+    float: left;
+    padding-left: 20px;
+}
+
+.right
+{
+    float: right;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.right img
+{
+    border: 1px solid gray;
+    margin: 20px;
+    display: block;
+}
+
+.middle
+{
+    padding: 20px;
+    border: 1px solid gray;
+    background-color: white;
+    margin-left: 280px;
+    margin-right: 160px;
+}
