@@ -1,0 +1,163 @@
+*
+{
+	font-family: "微软雅黑";
+}
+body
+{
+	background-color: #CCCCCC;
+}
+body
+{
+	margin: 0px;
+}
+header,footer
+{
+	background-color: #4D4D4D;
+	height: 60px;
+	width: 100%;
+}
+nav
+{
+	float: right;
+	color: white;
+	margin-top: 5px;
+}
+
+nav ul li
+{
+	float: left;
+	margin-right: 20px;
+}
+
+nav li a
+{
+	color: white;
+	text-decoration: none;
+}
+
+header img
+{
+	height: 40px;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+
+article
+{
+	background-color: white;
+	padding: 20px;
+	margin: 20px;
+	border: 1px solid gray;
+	width: 70%;
+}
+article p
+{
+	text-indent: 30px;
+}
+
+article h3
+{
+	color: gray;
+}
+
+article ul
+{
+	list-style: none;
+}
+
+#picture figure
+{
+	border:1px solid gray;
+	width: 120px;
+	display: inline-block;
+}
+
+#picture figure img
+{
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+}
+
+#picture figure figcaption
+{
+	font-size: 0.7em;
+	text-align: center;
+}
+article table
+{
+	width: 100%;
+	border-collapse: collapse;
+}
+article table th
+{
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	text-align: left;
+}
+article table tfoot
+{
+	background-color: gray;
+	color: white;
+	font-weight: bold;
+}
+
+aside
+{
+	background-color: white;
+	padding: 20px;
+	margin: 0 20px 20px 20px;
+	border: 1px solid gray;
+}
+footer
+{
+	text-align: center;
+}
+footer p
+{	
+	color: white;
+}
+aside
+{
+	width: 20%;
+	float: right;
+}
+aside h2
+{
+	border-style: solid;
+	border-color: gray;
+	border-width: 0px;
+	border-left-width: 4px;
+	padding: 5px;
+}
+aside form
+{
+	margin: 10px;
+}
+aside form input
+{
+	margin: 5px;
+}
+aside form select
+{
+	margin: 5px;
+}
+aside textarea
+{
+	margin: 5px;
+}
+#submit
+{
+	border-radius: 5px;
+	width: 100%;
+	height: 30px;
+	background-color: blue;
+	color: white;
+	font-size: 18px;
+}
+.tip
+{
+	color: gray;
+	font-size: 0.8em;
+}
